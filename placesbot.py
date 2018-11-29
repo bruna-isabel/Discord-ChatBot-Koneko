@@ -6,7 +6,7 @@ from discord.ext import commands
 
 #Bot Information
 bot = discord.Client()
-botToken = "NTA2MTk5NTk1NzUyMzU3ODky.Drpb_Q.yuWDOKol6JL3MsgyYnvrSw2qb1s"
+botToken = "Add your token here."
 places_input = ["show", "places"]
 
 #Google Places Api Information
