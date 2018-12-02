@@ -10,7 +10,7 @@ botToken = "Add your token here."
 places_input = ["show", "places"]
 
 #Google Places Api Information
-apiKey = "AIzaSyAu107Z8Uys2Fo9jTTS5VHcxkpLmAQgJR4"
+apiKey = "Add Google Places API KEY"
 jsonUrl = "https://maps.googleapis.com/maps/api/place/textsearch/json?"
 jsonUrlDetails = "https://maps.googleapis.com/maps/api/place/details/json?"
 
